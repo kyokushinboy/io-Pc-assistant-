@@ -1,0 +1,27 @@
+{
+  "desktop": true,
+  "voice": false,
+  "voice_options": {
+    "lang": "fa-IR",
+    "rate": 150,
+    "volume": 1
+  },
+  "sounds": {
+    "info": "assets/sounds/info_modern.wav",
+    "warning": "assets/sounds/warn.wav",
+    "error": "assets/sounds/error.wav"
+  },
+  "sound_pack": "soft",
+  "quiet_hours": {
+    "start": "22:00",
+    "end": "07:00"
+  },
+  "group_window_seconds": 300,
+  "levels": {
+    "info": true,
+    "warning": true,
+    "error": true,
+    "reminder": true
+  },
+  "allow_remote": false
+}

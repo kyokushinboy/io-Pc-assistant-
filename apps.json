@@ -1,0 +1,88 @@
+{
+  "apps": {
+    "vscode": [
+      "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+      "C:\\Users\\{username}\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+      "C:\\Users\\{username}\\Desktop\\Visual Studio Code\\Code.exe"
+    ],
+    "vmware": [
+      "C:\\Program Files\\VMware\\VMware Workstation\\vmware.exe",
+      "C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmware.exe"
+    ],
+    "steam": [
+      "C:\\Program Files (x86)\\Steam\\steam.exe",
+      "C:\\Program Files\\Steam\\steam.exe",
+      "C:\\Users\\{username}\\Desktop\\Steam.exe",
+      "C:\\Users\\{username}\\Desktop\\Steam\\Steam.exe"
+    ],
+    "psiphon": [
+      "C:\\Program Files\\Psiphon3\\psiphon3.exe",
+      "C:\\Users\\{username}\\Desktop\\psiphon3\\psiphon3.exe"
+    ],
+    "telegram": [
+      "C:\\Users\\{username}\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe",
+      "C:\\Users\\{username}\\Desktop\\Telegram.lnk",
+      "C:\\Users\\{username}\\Desktop\\Telegram\\Telegram.exe"
+    ],
+    "notepad": [
+      "C:\\Windows\\System32\\notepad.exe"
+    ],
+    "chrome": [
+      "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "C:\\Users\\{username}\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe"
+    ],
+    "edge": [
+      "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+      "C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe"
+    ],
+    "firefox": [
+      "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+      "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"
+    ],
+    "spotify": [
+      "C:\\Users\\{username}\\AppData\\Roaming\\Spotify\\Spotify.exe"
+    ],
+    "discord": [
+      "C:\\Users\\{username}\\AppData\\Local\\Discord\\app-\\\\Discord.exe",
+      "C:\\Users\\{username}\\AppData\\Local\\Discord\\Update.exe"
+    ],
+    "vlc": [
+      "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe",
+      "C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe"
+    ],
+    "whatsapp": [
+      "C:\\Users\\{username}\\AppData\\Local\\WhatsApp\\WhatsApp.exe",
+      "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop*\\WhatsApp.exe"
+    ],
+    "calculator": [
+      "C:\\Windows\\System32\\calc.exe"
+    ],
+    "paint": [
+      "C:\\Windows\\System32\\mspaint.exe"
+    ],
+    "wordpad": [
+      "C:\\Program Files\\Windows NT\\Accessories\\wordpad.exe"
+    ]
+  },
+  "aliases": {
+    "استیم": "steam",
+    "وی‌اس‌کد": "vscode",
+    "وی اس کد": "vscode",
+    "وی ام ور": "vmware",
+    "تلگرام": "telegram",
+    "نوت پد": "notepad",
+    "نوت‌پد": "notepad",
+    "پسيفون": "psiphon",
+    "پسیفون": "psiphon",
+    "گوگل": "chrome",
+    "کروم": "chrome",
+    "فایرفاکس": "firefox",
+    "اسپاتیفای": "spotify",
+    "دیسکورد": "discord",
+    "وی‌ال‌سی": "vlc",
+    "واتساپ": "whatsapp",
+    "ماشین حساب": "calculator",
+    "پینت": "paint",
+    "وردپد": "wordpad"
+  }
+}
